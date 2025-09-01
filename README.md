@@ -1,3 +1,4 @@
 # Tugas-PBO
-# Puppy.java
+# Puppy
+Puppy.java
 # Contoh.java
